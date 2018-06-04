@@ -1,0 +1,21 @@
+{
+  "name": "dolar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "micro",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "dateformat": "^3.0.3",
+    "got": "^8.3.1",
+    "jsdom": "^11.11.0",
+    "micro": "^9.3.2"
+  },
+  "devDependencies": {
+    "eslint": "^4.19.1"
+  }
+}
